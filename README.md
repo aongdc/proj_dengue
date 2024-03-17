@@ -46,13 +46,13 @@ H9: Hours of sunshine is positively correlated with the number of dengue-related
 
 ## Data Sources
 
-For the weekly number of dengue cases, we downloaded the data from Singapore's [official open data repository](data.gov.sg). 
+For the weekly number of dengue cases, we downloaded the data from Singapore's [official open data repository](https://data.gov.sg). 
 
 Many measures of weather, including daily temperature, rainfall and relative humidity, could not be found on official websites, and were thus downloaded from [Open Meteo's API](https://open-meteo.com/en/docs/historical-weather-api). 
 
 For Google search trends, we used Google trends and found data on 9 keywords including: dengue fever, dengue, fever, bone pain, mosquito bite, mosquito, rain, rash and rashes. Apart from “dengue”, we selected the rest of these keywords because they were the most common symptoms for dengue.
 
-All data was obtained for the period between 2012 and 2022, in intervals of 1 weeks, based on the epidemiological weeks used by Singapore (and many countries around the world) for the recording of such data. The time period of 2012-2022 was decided based on the scope of the dengue case data that was made avaiable on the [Singapore open data repository](data.gov.sg).
+All data was obtained for the period between 2012 and 2022, in intervals of 1 weeks, based on the epidemiological weeks used by Singapore (and many countries around the world) for the recording of such data. The time period of 2012-2022 was decided based on the scope of the dengue case data that was made avaiable on the [Singapore open data repository](https://data.gov.sg).
 
 
 ## Brief Summary of Findings
